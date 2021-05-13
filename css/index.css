@@ -2,3 +2,11 @@
 body {
 	font-family: "Jost", sans-serif;
 }
+.mono {
+  text-align: justify;
+  font-family: monospace;
+}
+
+iframe {
+  resize: both;
+}
