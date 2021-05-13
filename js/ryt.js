@@ -24,5 +24,5 @@ function ryt() {
 	var rand11 = Math.floor(Math.random() * 64);
 	var ied = a1[rand1] + a2[rand2] + a3[rand3] + a4[rand4] + a5[rand5] + a6[rand6] + a7[rand7] + a8[rand8] + a9[rand9] + a10[rand10] + a11[rand11];
 	document.getElementById("demo").innerHTML = 'Video ID: ' + ied;
-	document.getElementById("demo1").innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/' + ied + '" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+	document.getElementById("demo1").innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/' + ied + '" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
 }
