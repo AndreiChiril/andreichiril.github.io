@@ -3,10 +3,12 @@ body {
 	font-family: "Jost", sans-serif;
 }
 .mono {
-  text-align: justify;
-  font-family: monospace;
+	text-align: justify;
+	font-family: monospace;
 }
-
 iframe {
-  resize: both;
+	resize: both;
+}
+h1 {
+	text-align: center;
 }
