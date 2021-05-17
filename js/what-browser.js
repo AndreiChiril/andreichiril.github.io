@@ -24,7 +24,8 @@ if (isOpera == true) {
 } else if (isEdge == true) {
 	var whattoshow = uuse + "Microsoft Edge."
 } else if (isChrome == true) {
-	var whattoshow = uuse + "Chrome or a Chromium browser (Brave, Vivaldi, etc.)"
+	var whattoshow = uuse + "Chrome or a Chromium browser. <a href='/list-of-browsers#chromium'>See the list of Chromium browsers.</a>"
 } else {
-	var whattoshow = "I don't know what browser you use."
+	var whattoshow = "I don't know what browser you use. Sorry!"
 }
+document.getElementById("me-no-know-what-browser-me-use").innerHTML = whattoshow
