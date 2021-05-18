@@ -7,7 +7,8 @@ body {
 	font-family: monospace;
 }
 iframe {
-	resize: both;
+	width: 100%;
+	max-width: 100%;
 }
 h1 {
 	text-align: center;
