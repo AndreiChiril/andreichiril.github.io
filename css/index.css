@@ -1,6 +1,6 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i|Roboto+Mono|Lobster|Pacifico");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto+Mono|Lobster|Pacifico");
 body {
-	font-family: "Roboto", sans-serif;
+	font-family: "Roboto Slab", sans-serif;
 }
 .mono {
 	text-align: justify;
