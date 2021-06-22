@@ -16,6 +16,9 @@ h1 {
 p {
 	text-align: justify;
 }
-.back {
+.next {
+	text-align: right;
+}
+.previous {
 	text-align: left;
 }
