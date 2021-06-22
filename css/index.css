@@ -19,6 +19,6 @@ p {
 .back {
 	text-align: left;
 }
-video {
-	--plyr-color-main: red;
+video .js-player {
+	--plyr-color-main: darkblue;
 }
