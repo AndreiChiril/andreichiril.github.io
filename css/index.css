@@ -21,4 +21,5 @@ p {
 }
 video {
 	margin: auto;
+	--plyr-range-fill-background: red;
 }
