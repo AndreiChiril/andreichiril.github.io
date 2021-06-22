@@ -20,6 +20,5 @@ p {
 	text-align: left;
 }
 video {
-	margin: auto;
 	--plyr-color-main: red;
 }
