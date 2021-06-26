@@ -24,7 +24,7 @@ body {
 	border: none;
 	resize: both;
 }
-video #player {
+iframe #player {
 color:darkblue;
 }
 h1 {
