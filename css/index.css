@@ -24,9 +24,6 @@ body {
 	border: none;
 	resize: both;
 }
-iframe #player {
-	--plyr-color-main: darkblue;
-}
 h1 {
 	text-align: center;
 }
