@@ -6,14 +6,14 @@ body {
 	text-align: justify;
 	font-family: "Roboto Mono", monospace;
 }
-div .container {
+.container {
 	position: relative;
 	width: 100%;
 	overflow: hidden;
 	padding-top: 56.25%;
 	/* 16:9 Aspect Ratio */
 }
-iframe .responsive-iframe {
+.responsive-iframe {
 	position: absolute;
 	top: 0;
 	left: 0;
