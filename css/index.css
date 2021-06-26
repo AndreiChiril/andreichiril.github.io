@@ -24,6 +24,9 @@ body {
 	border: none;
 	resize: both;
 }
+video #player {
+color:darkblue;
+}
 h1 {
 	text-align: center;
 }
