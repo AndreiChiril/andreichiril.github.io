@@ -25,17 +25,11 @@ body {
 	resize: both;
 }
 iframe #player {
-color:darkblue;
+	--plyr-color-main: darkblue;
 }
 h1 {
 	text-align: center;
 }
 p {
 	text-align: justify;
-}
-.next {
-	text-align: right;
-}
-.previous {
-	text-align: left;
 }
