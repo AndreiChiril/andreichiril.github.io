@@ -2,21 +2,20 @@
 <html>
 <head>
 	<link href="/css/index.css" rel="stylesheet">
-	<link href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.6.8/plyr.css" rel="stylesheet">
+	<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	<title>Tom and Jerry Episode 1 | andreichiril.github.io</title>
 	<script src="https://unpkg.com/video.js/dist/video.js">
 	</script>
 </head>
 <body>
-	<video class="js-player" style="--plyr-color-main: darkblue;"><source src="https://repackager.wixmp.com/wixmp-vod/697459bb-b110-4dca-9742-e1fcfb19fe1f/video/999efab5ca7848ddb0087c9bf8b26bce/360p/mp4/file.mp4/index-v1-a1.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhcHA6cHJpdmF0ZW1lZGlhIiwiaXNfY2xpcCI6ZmFsc2UsInZpZGVvX2lkIjoiOTk5ZWZhYjVjYTc4NDhkZGIwMDg3YzliZjhiMjZiY2UiLCJzdWIiOiJ1c2VyOnByaXZhdGVtZWRpYSIsImV4cCI6MTYyNTE3ODEyMH0.eis4IleHWwaTrfkGkZevvDm90d_j6oGaoun8BCpG_nw"></video><br>
+	<video class="video-js vjs-fluid vjs-default-skin" controls="" data-setup='{}' id="my_video_1" preload="auto"><source src="https://repackager.wixmp.com/wixmp-vod/697459bb-b110-4dca-9742-e1fcfb19fe1f/video/999efab5ca7848ddb0087c9bf8b26bce/360p/mp4/file.mp4/index-v1-a1.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhcHA6cHJpdmF0ZW1lZGlhIiwiaXNfY2xpcCI6ZmFsc2UsInZpZGVvX2lkIjoiOTk5ZWZhYjVjYTc4NDhkZGIwMDg3YzliZjhiMjZiY2UiLCJzdWIiOiJ1c2VyOnByaXZhdGVtZWRpYSIsImV4cCI6MTYyNTE3ODEyMH0.eis4IleHWwaTrfkGkZevvDm90d_j6oGaoun8BCpG_nw"></video><br>
 	<p class="next"><a href="/video-archive/tv/series/tom-and-jerry/2">Episode 2 →</a></p>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.6.8/plyr.min.js">
+	<script src="https://unpkg.com/video.js/dist/video.js">
 	</script> 
-	<script>
-	     document.addEventListener('DOMContentLoaded', () => {
-	         const player = Plyr.setup('.js-player');
-	     });
+	<script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js">
+	</script> 
+	<script src="/js/video-js.js">
 	</script>
 </body>
 </html>
