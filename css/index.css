@@ -1,19 +1,28 @@
-@import url("https://fonts.googleapis.com/css?family=Lexend:400,700|Roboto+Mono|Lobster|Pacifico");
+@import url("https://fonts.googleapis.com/css?family=Lexend:500,800|Roboto+Mono|Lobster|Pacifico");
 body {
-	font-family: "Lexend";
+	font-family: "Lexend", sans-serif;
+	font-weight: 500;
+}
+b, strong {
+	font-family: "Lexend", sans-serif;
+	font-weight: 500;
 }
 .mono {
 	text-align: justify;
 	font-family: "Roboto Mono", monospace;
 }
-/*put this in div*/.container {
+/*put this in div*/
+
+.container {
 	position: relative;
 	width: 100%;
 	overflow: hidden;
 	padding-top: 56.25%;
 	/* 16:9 Aspect Ratio */
 }
-/*put this in iframe*/.responsive-iframe {
+/*put this in iframe*/
+
+.responsive-iframe {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -30,16 +39,15 @@ h1 {
 p {
 	text-align: justify;
 }
-table.more{
+table.more {
 	width: 100%;
 }
-table.more td{
-    vertical-align: baseline;
+table.more td {
+	vertical-align: baseline;
 }
-.left{
+.left {
 	text-align: left;
-		
 }
-.right{
+.right {
 	text-align: right;
 }
