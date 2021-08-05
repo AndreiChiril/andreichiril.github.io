@@ -1,0 +1,205 @@
+WEBVTT FILE
+
+1
+00:00:00.000 --> 00:00:01.872
+Qu’est-ce que Peertube ?
+
+2
+00:00:01.872 --> 00:00:04.153
+Peertube est une plateforme vidéo libre.
+
+3
+00:00:04.153 --> 00:00:06.549
+Comme sur Youtube ou Vimeo,
+
+4
+00:00:06.549 --> 00:00:08.409
+vous pouvez visionner, commenter
+
+5
+00:00:08.409 --> 00:00:10.106
+et téléverser vos vidéos en ligne,
+
+6
+00:00:10.106 --> 00:00:11.606
+mais il y a mieux…
+
+7
+00:00:11.616 --> 00:00:14.364
+vous n’êtes pas qu’un·e simple utilisateur·rice !
+
+8
+00:00:15.164 --> 00:00:16.678
+Vous pouvez reprendre le Web en main,
+
+9
+00:00:16.678 --> 00:00:18.856
+en installant votre propre Peertube !
+
+10
+00:00:18.856 --> 00:00:20.256
+Fédération
+
+11
+00:00:21.563 --> 00:00:23.660
+Les instances de Peertube se synchronisent ensemble
+
+12
+00:00:23.660 --> 00:00:26.501
+Quand Miaou-tube choisit de se synchroniser avec Waf-tube,
+
+13
+00:00:26.501 --> 00:00:27.997
+toutes les vidéos de Waf-tube
+
+14
+00:00:27.997 --> 00:00:29.921
+peuvent être visionnées sur Miaou-tube !
+
+15
+00:00:30.213 --> 00:00:32.996
+Le fichier vidéo reste sur le serveur de Waf-tube
+
+16
+00:00:32.996 --> 00:00:34.119
+et il est diffusé
+
+17
+00:00:34.119 --> 00:00:36.313
+sans problème sur Miaou-tube.
+
+18
+00:00:36.923 --> 00:00:38.259
+Cette approche fédératrice
+
+19
+00:00:38.589 --> 00:00:40.055
+crée un réseau de vidéos
+
+20
+00:00:39.855 --> 00:00:41.555
+avec un catalogue partagé de vidéos
+
+21
+00:00:41.788 --> 00:00:44.056
+sans avoir à payer plus d’espace disque.
+
+22
+00:00:44.577 --> 00:00:46.425
+C’est la base de la toile !
+
+23
+00:00:47.385 --> 00:00:49.005
+Streaming Pair à Pair
+
+24
+00:00:49.638 --> 00:00:50.938
+Vous n’avez pas besoin d’un serveur centralisé
+
+25
+00:00:50.938 --> 00:00:52.213
+pour faire fonctionner Peertube.
+
+26
+00:00:52.422 --> 00:00:54.146
+Quand quelqu’un regarde une vidéo,
+
+27
+00:00:54.146 --> 00:00:55.446
+elle est diffusée directement
+
+28
+00:00:55.446 --> 00:00:57.212
+depuis l’instance Peertube.
+
+29
+00:00:57.697 --> 00:00:58.813
+Quand plusieurs personnes regardent
+
+30
+00:00:58.813 --> 00:01:00.515
+une vidéo en même temps,
+
+31
+00:01:01.135 --> 00:01:02.835
+des bouts de la vidéos sont partagés,
+
+32
+00:01:02.835 --> 00:01:04.452
+entre elles, en arrière-plan.
+
+33
+00:01:04.761 --> 00:01:05.994
+Le streaming en pair à pair
+
+34
+00:01:05.994 --> 00:01:07.694
+rend le streaming vidéo résistant
+
+35
+00:01:07.694 --> 00:01:09.460
+et efficace :
+
+36
+00:01:09.460 --> 00:01:10.590
+une vidéo populaire
+
+37
+00:01:10.590 --> 00:01:12.241
+ne devrait pas faire tomber une instance.
+
+38
+00:01:13.226 --> 00:01:15.005
+Liberté de l’utilisateur·rice
+
+39
+00:01:15.005 --> 00:01:16.578
+Peertube est une plateforme vidéo libre
+
+40
+00:01:16.578 --> 00:01:18.889
+avec un développement communautaire.
+
+41
+00:01:18.915 --> 00:01:21.538
+Institutions, médias, communautés,
+
+42
+00:01:21.538 --> 00:01:24.436
+tout le monde peut avoir son propre tube vidéo,
+
+43
+00:01:24.436 --> 00:01:26.755
+avec ses propres règles, à un prix modique.
+
+44
+00:01:27.231 --> 00:01:28.372
+Et bientôt,
+
+45
+00:01:28.372 --> 00:01:30.240
+vous pourrez trouver et rejoindre
+
+46
+00:01:30.240 --> 00:01:32.938
+l’instance Peertube qui vous convient parfaitement.
+
+47
+00:01:32.938 --> 00:01:34.738
+Reprenez le Web en main,
+
+48
+00:01:34.770 --> 00:01:35.583
+reprenez son contrôle,
+
+49
+00:01:35.583 --> 00:01:36.933
+une vidéo à la fois…
+
+50
+00:01:36.933 --> 00:01:38.536
+rejoignez juste Peertube :
+
+51
+00:01:38.536 --> 00:01:40.151
+Joinpeertube.org

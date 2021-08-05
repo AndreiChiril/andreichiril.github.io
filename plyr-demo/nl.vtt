@@ -1,0 +1,205 @@
+WEBVTT FILE
+
+1
+00:00:00.000 --> 00:00:01.872
+Wat is PeerTube?
+
+2
+00:00:01.872 --> 00:00:04.153
+PeerTube is een open source video platform.
+
+3
+00:00:04.153 --> 00:00:06.549
+Zoals YouTube en Vimeo
+
+4
+00:00:06.549 --> 00:00:08.409
+je kan online kijken, reageren
+
+5
+00:00:08.409 --> 00:00:10.106
+en video's uploaden
+
+6
+00:00:10.106 --> 00:00:11.606
+maar er is meer...
+
+7
+00:00:11.616 --> 00:00:14.364
+het stelt je in staat om meer te zijn dan een gebruiker!
+
+8
+00:00:15.164 --> 00:00:16.678
+Je kan het web van jezelf maken,
+
+9
+00:00:16.678 --> 00:00:18.856
+door het installeren van je eigen PeerTube!
+
+10
+00:00:18.856 --> 00:00:20.256
+Federatie
+
+11
+00:00:21.563 --> 00:00:23.660
+PeerTube instanties kunnen samen worden gesynchroniseerd.
+
+12
+00:00:23.660 --> 00:00:26.501
+Wanneer Miauw-tube ervoor kiest om te synchronsieren met Woef-tube,
+
+13
+00:00:26.501 --> 00:00:27.997
+zijn alle Woef-tube video's
+
+14
+00:00:27.997 --> 00:00:29.921
+beschikbaar om te kijken op Miauw-tube!
+
+15
+00:00:30.213 --> 00:00:32.996
+De video-bestanden blijven op de Woef-tube server
+
+16
+00:00:32.996 --> 00:00:34.119
+terwijl ze naadloos worden gestreamd
+
+17
+00:00:34.119 --> 00:00:36.313
+met Miauw-tube.
+
+18
+00:00:36.923 --> 00:00:38.259
+Deze federatiebenadering
+
+19
+00:00:38.589 --> 00:00:40.055
+maakt een video-netwerk
+
+20
+00:00:39.855 --> 00:00:41.555
+met een gedeelde video-catalogus
+
+21
+00:00:41.788 --> 00:00:44.056
+zonder te betalen voor meer schijfruimte.
+
+22
+00:00:44.577 --> 00:00:46.425
+Dit is de basis van het web!
+
+23
+00:00:47.385 --> 00:00:49.005
+P2P-streaming
+
+24
+00:00:49.638 --> 00:00:50.938
+Je hebt geen datacentrum nodig
+
+25
+00:00:50.938 --> 00:00:52.213
+om PeerTube te draaien.
+
+26
+00:00:52.422 --> 00:00:54.146
+Wanneer iemand een video bekijkt,
+
+27
+00:00:54.146 --> 00:00:55.446
+wordt hij direct gestreamd
+
+28
+00:00:55.446 --> 00:00:57.212
+van de PeerTube instantie.
+
+29
+00:00:57.697 --> 00:00:58.813
+Wanneer meerder mensen tegelijk kijken
+
+30
+00:00:58.813 --> 00:01:00.515
+naar dezelfde video
+
+31
+00:01:01.135 --> 00:01:02.835
+worden stukjes van deze video gedeeld
+
+32
+00:01:02.835 --> 00:01:04.452
+met elkaar in de achtergrond.
+
+33
+00:01:04.761 --> 00:01:05.994
+Peer-naar-peer streamen
+
+34
+00:01:05.994 --> 00:01:07.694
+maakt videostreamen veerkrachtig
+
+35
+00:01:07.694 --> 00:01:09.460
+en efficiënt:
+
+36
+00:01:09.460 --> 00:01:10.590
+een succesvolle video
+
+37
+00:01:10.590 --> 00:01:12.241
+zou je niet langer in problemen moeten brengen.
+
+38
+00:01:13.226 --> 00:01:15.005
+Gebruikersvrijheid
+
+39
+00:01:15.005 --> 00:01:16.578
+PeerTube is open source software
+
+40
+00:01:16.578 --> 00:01:18.889
+met gemeenschapsgestuurde ontwikkeling.
+
+41
+00:01:18.915 --> 00:01:21.538
+Instituten, media en gemeenschappen,
+
+42
+00:01:21.538 --> 00:01:24.436
+iedereen can zijn eigen videotube maken
+
+43
+00:01:24.436 --> 00:01:26.755
+met zijn eigen regels en tegen minimale kosten.
+
+44
+00:01:27.231 --> 00:01:28.372
+Op lange termijn
+
+45
+00:01:28.372 --> 00:01:30.240
+zal het mogelijk zijn om PeerTube instanties
+
+46
+00:01:30.240 --> 00:01:32.938
+te vinden die helemaal bij jou passen.
+
+47
+00:01:32.938 --> 00:01:34.738
+Maak het web opnieuw van jou,
+
+48
+00:01:34.770 --> 00:01:35.583
+krijg de controle terug,
+
+49
+00:01:35.583 --> 00:01:36.933
+één video per keer...
+
+50
+00:01:36.933 --> 00:01:38.536
+doe gewoon mee met PeerTube:
+
+51
+00:01:38.536 --> 00:01:40.151
+Joinpeertube.org

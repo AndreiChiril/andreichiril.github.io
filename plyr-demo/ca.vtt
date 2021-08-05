@@ -1,0 +1,205 @@
+WEBVTT FILE
+
+1
+00:00:00.000 --> 00:00:01.872
+Què és Peertube?
+
+2
+00:00:01.872 --> 00:00:04.153
+Peertube és una plataforma de vídeo de codi lliure.
+
+3
+00:00:04.153 --> 00:00:06.549
+Com YouTube o Vimeo
+
+4
+00:00:06.549 --> 00:00:08.409
+pots mirar, comentar
+
+5
+00:00:08.409 --> 00:00:10.106
+i pujar vídeos online
+
+6
+00:00:10.106 --> 00:00:11.606
+però n'hi ha més...
+
+7
+00:00:11.616 --> 00:00:14.364
+t'apoder per ser més que una usuària!
+
+8
+00:00:15.164 --> 00:00:16.678
+Pots fer teva la web,
+
+9
+00:00:16.678 --> 00:00:18.856
+intaŀlant el teu propi PeerTube!
+
+10
+00:00:18.856 --> 00:00:20.256
+Federació
+
+11
+00:00:21.563 --> 00:00:23.660
+Les instàncies de PeerTube es poden sincronitzar entre elles.
+
+12
+00:00:23.660 --> 00:00:26.501
+Quan Mèu-tube decideix sincronitzar-se amb Bup-tube,
+
+13
+00:00:26.501 --> 00:00:27.997
+tots els vídeo de Bup-tube
+
+14
+00:00:27.997 --> 00:00:29.921
+es poden mirar des de Mèu-tub!
+
+15
+00:00:30.213 --> 00:00:32.996
+Els arxius de vídeo es queden al servidor Bup-tube
+
+16
+00:00:32.996 --> 00:00:34.119
+però es retransmeteixen
+
+17
+00:00:34.119 --> 00:00:36.313
+perfectament a través de Mèu-Tube
+
+18
+00:00:36.923 --> 00:00:38.259
+Aquest disseny federatiu
+
+19
+00:00:38.589 --> 00:00:40.055
+crea una xarxa de vídeo
+
+20
+00:00:39.855 --> 00:00:41.555
+amb un catàleg compartit
+
+21
+00:00:41.788 --> 00:00:44.056
+sense haver de pagar més espai de disc.
+
+22
+00:00:44.577 --> 00:00:46.425
+És la base de la web!
+
+23
+00:00:47.385 --> 00:00:49.005
+Transmissió P2P
+
+24
+00:00:49.638 --> 00:00:50.938
+No necessites un centre de dades
+
+25
+00:00:50.938 --> 00:00:52.213
+per portar un Peertube.
+
+26
+00:00:52.422 --> 00:00:54.146
+Quan algú mira un vídeo,
+
+27
+00:00:54.146 --> 00:00:55.446
+es retransmet directament
+
+28
+00:00:55.446 --> 00:00:57.212
+des de la instància de PeerTube.
+
+29
+00:00:57.697 --> 00:00:58.813
+Quan diverses persones
+
+30
+00:00:58.813 --> 00:01:00.515
+miren alhora el mateix vídeo,
+
+31
+00:01:01.135 --> 00:01:02.835
+comparteixen segments del vídeo
+
+32
+00:01:02.835 --> 00:01:04.452
+entre elles, en segon pla.
+
+33
+00:01:04.761 --> 00:01:05.994
+La transmissió peer-to-peer
+
+34
+00:01:05.994 --> 00:01:07.694
+fa l'streaming de vídeo resilient
+
+35
+00:01:07.694 --> 00:01:09.460
+i eficient:
+
+36
+00:01:09.460 --> 00:01:10.590
+un vídeo popular
+
+37
+00:01:10.590 --> 00:01:12.241
+no hauria de fer caure un servidor.
+
+38
+00:01:13.226 --> 00:01:15.005
+Llibertats per a les usuàries
+
+39
+00:01:15.005 --> 00:01:16.578
+Peertube és programari de de codi lliure i obert (open source)
+
+40
+00:01:16.578 --> 00:01:18.889
+amb desenvolupament comunitari.
+
+41
+00:01:18.915 --> 00:01:21.538
+Institucions, mitjans, comunitats,
+
+42
+00:01:21.538 --> 00:01:24.436
+qualsevol pot fer la seva videoteca,
+
+43
+00:01:24.436 --> 00:01:26.755
+amb les seves pròpies normes, i a baix cost.
+
+44
+00:01:27.231 --> 00:01:28.372
+A la llarga,
+
+45
+00:01:28.372 --> 00:01:30.240
+podràs trobar i afegir-te
+
+46
+00:01:30.240 --> 00:01:32.938
+la instància de Peertube que millor s'adapti a tu.
+
+47
+00:01:32.938 --> 00:01:34.738
+Reapropia't de la web,
+
+48
+00:01:34.770 --> 00:01:35.583
+recupera'n el control,
+
+49
+00:01:35.583 --> 00:01:36.933
+de vídeo en vídeo…
+
+50
+00:01:36.933 --> 00:01:38.536
+suma't a PeerTube:
+
+51
+00:01:38.536 --> 00:01:40.151
+joinpeertube.org
