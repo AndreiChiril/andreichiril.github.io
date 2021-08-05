@@ -1,0 +1,205 @@
+WEBVTT FILE
+
+1
+00:00:00.000 --> 00:00:01.872
+¿Qué es Peertube?
+
+2
+00:00:01.872 --> 00:00:04.153
+Peertube es una plataforma de video de código abierto
+
+3
+00:00:04.153 --> 00:00:06.549
+Como YouTube o Vimeo
+
+4
+00:00:06.549 --> 00:00:08.409
+puedes ver, comentar
+
+5
+00:00:08.409 --> 00:00:10.106
+y subir videos online,
+
+6
+00:00:10.106 --> 00:00:11.606
+y además...
+
+7
+00:00:11.616 --> 00:00:14.364
+te empodera para ser más que un usuario
+
+8
+00:00:15.164 --> 00:00:16.678
+Puedes hacerte tuya la web,
+
+9
+00:00:16.678 --> 00:00:18.856
+instalando tu propio PeerTube!
+
+10
+00:00:18.856 --> 00:00:20.256
+Federación
+
+11
+00:00:21.563 --> 00:00:23.660
+Todas las instancias de PeerTube pueden sicornizarse.
+
+12
+00:00:23.660 --> 00:00:26.501
+Cuando Miau-tube escoje sincronizarse con Guau-tube
+
+13
+00:00:26.501 --> 00:00:27.997
+todos los videos de Guau-Tube
+
+14
+00:00:27.997 --> 00:00:29.921
+se pueden ver desde Miau-Tube!
+
+15
+00:00:30.213 --> 00:00:32.996
+Los archivos del video se almacenan en el servidor de Guau-tube
+
+16
+00:00:32.996 --> 00:00:34.119
+mientras es retransmitido
+
+17
+00:00:34.119 --> 00:00:36.313
+perfectamente en Miau-Tube.
+
+18
+00:00:36.923 --> 00:00:38.259
+La propuesta de la federación
+
+19
+00:00:38.589 --> 00:00:40.055
+crea una red de video
+
+20
+00:00:39.855 --> 00:00:41.555
+con un video-catalogo compartido
+
+21
+00:00:41.788 --> 00:00:44.056
+sin pagar por más espacio de disco.
+
+22
+00:00:44.577 --> 00:00:46.425
+Esta es la base de la web!
+
+23
+00:00:47.385 --> 00:00:49.005
+retransmisión P2P
+
+24
+00:00:49.638 --> 00:00:50.938
+No necesitas un centro de datos
+
+25
+00:00:50.938 --> 00:00:52.213
+para utilizar PeerTube.
+
+26
+00:00:52.422 --> 00:00:54.146
+Cuando alguien mira un video,
+
+27
+00:00:54.146 --> 00:00:55.446
+es retransmitido directamente
+
+28
+00:00:55.446 --> 00:00:57.212
+desde la instancia de PeerTube.
+
+29
+00:00:57.697 --> 00:00:58.813
+Cuando varias personas miran
+
+30
+00:00:58.813 --> 00:01:00.515
+simultaneamente el mismo video,
+
+31
+00:01:01.135 --> 00:01:02.835
+los bits del video son compartidos
+
+32
+00:01:02.835 --> 00:01:04.452
+entre ellos en el background.
+
+33
+00:01:04.761 --> 00:01:05.994
+La retransmision peer-to-peer
+
+34
+00:01:05.994 --> 00:01:07.694
+es mas resistente
+
+35
+00:01:07.694 --> 00:01:09.460
+y eficiente:
+
+36
+00:01:09.460 --> 00:01:10.590
+un video muy reproducido
+
+37
+00:01:10.590 --> 00:01:12.241
+no hace caer la instancia.
+
+38
+00:01:13.226 --> 00:01:15.005
+La libertad del usuario
+
+39
+00:01:15.005 --> 00:01:16.578
+Peertube es un software de código abierto (open source)
+
+40
+00:01:16.578 --> 00:01:18.889
+desenvolupado por la comunidad.
+
+41
+00:01:18.915 --> 00:01:21.538
+Instituciones, medios, comunidades,
+
+42
+00:01:21.538 --> 00:01:24.436
+todo el mundo puede crear su propio videotube,
+
+43
+00:01:24.436 --> 00:01:26.755
+con sus propias reglas, a bajo costo.
+
+44
+00:01:27.231 --> 00:01:28.372
+A la larga,
+
+45
+00:01:28.372 --> 00:01:30.240
+podrás encontrar y disfrutat
+
+46
+00:01:30.240 --> 00:01:32.938
+la instancia de Peertube que te vaya bién.
+
+47
+00:01:32.938 --> 00:01:34.738
+Haz la web tuya otra vez,
+
+48
+00:01:34.770 --> 00:01:35.583
+recupera el control,
+
+49
+00:01:35.583 --> 00:01:36.933
+cuelga un video...
+
+50
+00:01:36.933 --> 00:01:38.536
+disfruta el Peertube:
+
+51
+00:01:38.536 --> 00:01:40.151
+joinpeertube.org

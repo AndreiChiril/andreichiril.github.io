@@ -1,0 +1,205 @@
+WEBVTT FILE
+
+1
+00:00:00.000 --> 00:00:01.872
+Vad är PeerTube?
+
+2
+00:00:01.872 --> 00:00:04.153
+Peertube är en videoplattform med öppen källkod.
+
+3
+00:00:04.153 --> 00:00:06.549
+Liksom med YouTube och Vimeo,
+
+4
+00:00:06.549 --> 00:00:08.409
+kan du titta på, kommentera
+
+5
+00:00:08.409 --> 00:00:10.106
+och ladda upp videor online,
+
+6
+00:00:10.106 --> 00:00:11.606
+men det finns mer …
+
+7
+00:00:11.616 --> 00:00:14.364
+det ger dig möjligheten att vara mer än bara en användare!
+
+8
+00:00:15.164 --> 00:00:16.678
+Du kan göra webben till din egen
+
+9
+00:00:16.678 --> 00:00:18.856
+genom att installera ditt eget PeerTube!
+
+10
+00:00:18.856 --> 00:00:20.256
+Federationen
+
+11
+00:00:21.563 --> 00:00:23.660
+Instanser av PeerTube kan länkas samman.
+
+12
+00:00:23.660 --> 00:00:26.501
+När MjauTube väljer att synkronisera med HundTube
+
+13
+00:00:26.501 --> 00:00:27.997
+kommer HundTubes alla videor
+
+14
+00:00:27.997 --> 00:00:29.921
+kunna ses på MjauTube!
+
+15
+00:00:30.213 --> 00:00:32.996
+Videofilerna finns fortfarande på HundTubes server
+
+16
+00:00:32.996 --> 00:00:34.119
+men kommer strömmas
+
+17
+00:00:34.119 --> 00:00:36.313
+sömlöst till MjauTube.
+
+18
+00:00:36.923 --> 00:00:38.259
+Genom att federera
+
+19
+00:00:38.589 --> 00:00:40.055
+skapas ett videonätverk
+
+20
+00:00:39.855 --> 00:00:41.555
+med gemensam videokatalog
+
+21
+00:00:41.788 --> 00:00:44.056
+utan att betala för mer lagringsutrymme.
+
+22
+00:00:44.577 --> 00:00:46.425
+Det är precis som webben fungerar!
+
+23
+00:00:47.385 --> 00:00:49.005
+P2P-strömning
+
+24
+00:00:49.638 --> 00:00:50.938
+Du behöver inte en datorhall
+
+25
+00:00:50.938 --> 00:00:52.213
+för att köra PeerTube.
+
+26
+00:00:52.422 --> 00:00:54.146
+När någon tittar på en video
+
+27
+00:00:54.146 --> 00:00:55.446
+strömmas den direkt
+
+28
+00:00:55.446 --> 00:00:57.212
+från PeerTube-instansen.
+
+29
+00:00:57.697 --> 00:00:58.813
+När flera personer tittar
+
+30
+00:00:58.813 --> 00:01:00.515
+på samma video samtidigt
+
+31
+00:01:01.135 --> 00:01:02.835
+delas bitar av videon
+
+32
+00:01:02.835 --> 00:01:04.452
+mellan dem bakom kulisserna.
+
+33
+00:01:04.761 --> 00:01:05.994
+Strömning från person till person
+
+34
+00:01:05.994 --> 00:01:07.694
+gör strömningen stabilare
+
+35
+00:01:07.694 --> 00:01:09.460
+och mer effektiv:
+
+36
+00:01:09.460 --> 00:01:10.590
+en framgångsrik video
+
+37
+00:01:10.590 --> 00:01:12.241
+borde inte kunna göra en instans långsammare.
+
+38
+00:01:13.226 --> 00:01:15.005
+Användarfrihet
+
+39
+00:01:15.005 --> 00:01:16.578
+PeerTube är en mjukvara med öppen källkod
+
+40
+00:01:16.578 --> 00:01:18.889
+utvecklad av en gemenskap.
+
+41
+00:01:18.915 --> 00:01:21.538
+Institutioner, media, gemenskaper,
+
+42
+00:01:21.538 --> 00:01:24.436
+vem som helst kan skapa sin egen videotjänst
+
+43
+00:01:24.436 --> 00:01:26.755
+med sina egna regler, till ett lågt pris.
+
+44
+00:01:27.231 --> 00:01:28.372
+I det långa loppet
+
+45
+00:01:28.372 --> 00:01:30.240
+kommer du kunna hitta och gå med i
+
+46
+00:01:30.240 --> 00:01:32.938
+den PeerTube-instans som verkligen passar dig.
+
+47
+00:01:32.938 --> 00:01:34.738
+Gör webben din igen,
+
+48
+00:01:34.770 --> 00:01:35.583
+ta tillbaka kontrollen,
+
+49
+00:01:35.583 --> 00:01:36.933
+en video i taget …
+
+50
+00:01:36.933 --> 00:01:38.536
+det är bara att gå med i PeerTube:
+
+51
+00:01:38.536 --> 00:01:40.151
+joinpeertube.org
