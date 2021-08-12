@@ -125,14 +125,14 @@ main {
 
 .control#left {
     margin-left: 20px;
-    background-image: url(../assets/controls/left.png);
+    background-image: url(/2020game.io/assets/controls/left.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .control#right {
     margin-left: 5px;
-    background-image: url(../assets/controls/right.png);
+    background-image: url(/2020game.io/assets/controls/right.png);
     background-repeat: no-repeat;
     background-position: center;
 }
