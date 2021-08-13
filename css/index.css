@@ -1,4 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Lexend:500,800|Roboto+Mono|Lobster|Pacifico");
+@font-face {
+	font-family: "Lexend";
+	src: url(Lexend.ttf);
+}
 body {
 	font-family: "Lexend", sans-serif;
 	font-weight: 500;
