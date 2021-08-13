@@ -53,3 +53,6 @@ table.more td {
 .right {
 	text-align: right;
 }
+thead {
+ position: sticky;
+}
