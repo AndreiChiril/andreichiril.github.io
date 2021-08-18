@@ -56,6 +56,6 @@ table.more td {
 thead {
 	position: sticky;
 }
-video {
+div.container-plyr-io {
 	--plyr-color-main: #000080;
 }
