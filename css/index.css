@@ -54,5 +54,8 @@ table.more td {
 	text-align: right;
 }
 thead {
- position: sticky;
+	position: sticky;
+}
+video {
+	--plyr-color-main: #000080;
 }
