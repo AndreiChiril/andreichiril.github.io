@@ -1,6 +1,6 @@
 @font-face {
 	font-family:Lexend;
-	src: url(Lexend.ttf);
+	src: url(Lexend.ttf) format("truetype");
 }
 
 body {
