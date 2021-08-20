@@ -5,4 +5,5 @@ var mt_lib = [
 	{ w: "wee", r: "ne" },
 	{ w: "wei", r: "ni" },
 	{ w: "youpl", r: "ne" },
+	{ w: "they", r: "ié" },
 ];
