@@ -36,7 +36,7 @@ b, strong {
 h1 {
 	text-align: center;
 }
-p, li, li a {
+p, li, li a, a, td {
 	text-align: justify;
 }
 table.more {
